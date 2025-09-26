@@ -6,3 +6,4 @@ permalink: /blog
 ---
 
 Here be writings. Mostly mundane, sometimes fanciful.
+Radhe Radhe
